@@ -1,0 +1,68 @@
+text{
+  fill:white;
+   font-family:System-Regular;
+}
+
+#GPSFix{
+  fill: red;
+  font-size:30;
+  x:10;
+  y:40;
+
+}
+
+#phoneConnection{
+  fill: red;
+  font-size:30;
+  x:10;
+  y:80;
+
+}
+
+#searchingCourses{
+  fill: white;
+  font-size:30;
+  x:10;
+  y:120;
+}
+
+
+.course-view{
+  height:50%;
+  width:100%;
+}
+
+.course-name{
+  fill:white;
+
+}
+
+.tile{
+  height:80;
+}
+
+/*HOLE SCREEN */
+
+#holeNumber{
+  fill:white;
+  font-size:30;
+  x:100%-50;
+  y:30;
+   
+}
+
+#objectBackground{
+  fill:white;
+  height:100%-10;
+  width:20;
+    x:0;
+  y:5;
+}
+
+.distance{
+  fill:white;
+  font-size:60;
+  x:175;
+  text-anchor:end;
+}
+
